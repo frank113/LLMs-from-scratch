@@ -29,6 +29,7 @@ dependencies = [
   "nltk>=3.9.1",
   "nb-clean>=4.0.1",
   "nbconvert>=7.16.6",
+  "typing>=3.10.0.0",
 ]
 
 [tool.uv.sources]
