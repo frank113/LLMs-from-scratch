@@ -27,6 +27,8 @@ dependencies = [
   "pytest>=8.3.5",
   "gensim>=4.3.3",
   "nltk>=3.9.1",
+  "nb-clean>=4.0.1",
+  "nbconvert>=7.16.6",
 ]
 
 [tool.uv.sources]
