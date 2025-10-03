@@ -35,6 +35,7 @@ ch05/02_alternative_weight_loading/checkpoints
 ch05/02_alternative_weight_loading/*.safetensors
 ch05/01_main-chapter-code/model.pth
 ch05/01_main-chapter-code/model_and_optimizer.pth
+ch05/02_alternative_weight_loading/checkpoint_deep_dive/
 ch05/03_bonus_pretraining_on_gutenberg/model_checkpoints
 ch05/06_user_interface/gpt2
 ch05/07_gpt_to_llama/.cache
