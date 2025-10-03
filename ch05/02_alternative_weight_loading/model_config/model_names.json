@@ -1,0 +1,6 @@
+{
+    "gpt2-small (124M)": "openai-community/gpt2",
+    "gpt2-medium (355M)": "openai-community/gpt2-medium",
+    "gpt2-large (774M)": "openai-community/gpt2-large",
+    "gpt2-xl (1558M)": "openai-community/gpt2-xl"
+}
